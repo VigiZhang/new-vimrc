@@ -55,6 +55,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-surround'
 Plug 'vim-airline/vim-airline'
 Plug 'kien/ctrlp.vim'
+Plug 'rust-lang/rust.vim'
 
 call plug#end()
 
